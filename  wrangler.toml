@@ -1,8 +1,0 @@
-# wrangler.toml
-name = "kopi"
-compatibility_date = "2025-01-01"
-
-# KV binding
-[[kv_namespaces]]
-binding = "KOPI"
-id = "5865161830914f01960adb2ec75ccb7a" 
